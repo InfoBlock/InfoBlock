@@ -10,4 +10,4 @@
 <br />
 <br />
 <br />
-![Discord Banner 4](https://discordapp.com/api/guilds/611886244925931531/widget.png?style=banner4)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=124220790001500161)
