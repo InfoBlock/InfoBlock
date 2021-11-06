@@ -6,8 +6,3 @@
 `🌏` I live on Earth. <br>
 `💜` I am Pansexual. &lt;3 <br />
 `🎉` I am 19y/o. <br>
-<br />
-<br />
-<br />
-<br />
-![My Discord](https://discord-readme-badge.vercel.app/api?id=124220790001500161)
