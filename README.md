@@ -2,7 +2,7 @@
 
 `💖` My pronouns are **@he/him** <br />
 `📜` I am a hobby developer. <br>
-`🔗` My shiny site: [InfoBlock](http://148.251.92.133). <br>
+`🔗` My shiny site: [InfoBlock](http://www.infoblock.gq). <br>
 `🌏` I live on Earth. <br>
 `💜` I am Pansexual. &lt;3 <br />
 `🎉` I am 19y/o. <br>
