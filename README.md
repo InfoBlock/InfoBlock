@@ -4,7 +4,6 @@
 `📜` I am a hobby developer. <br>
 `🔗` My shiny site: [InfoBlock](https://infoblock.github.io/Website/). <br>
 `🌏` I live on Earth. <br>
-`💜` I am Pansexual. &lt;3 <br />
-`🎉` I am 19y/o. <br>
+`🎉` I am 20y/o. <br>
 
 [![Discord Server](https://img.shields.io/discord/611886244925931531?color=%237289da&label=My%20Discord%20Server&logo=discord)](https://discord.gg/zWFW6yg)
