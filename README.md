@@ -7,3 +7,5 @@
 `🎉` I am 20y/o. <br>
 
 [![Discord Server](https://img.shields.io/discord/611886244925931531?color=%237289da&label=My%20Discord%20Server&logo=discord)](https://discord.gg/zWFW6yg)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/124220790001500161?theme=dark&hideDiscrim=true&idleMessage=Just+dead+inside+like+I+always+am)](https://discord.com/users/124220790001500161)
