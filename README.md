@@ -1,9 +1,15 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow everyone** （っ＾▿＾）
+# **Heyhow everyone, I'm InfoBlock!** （っ＾▿＾）
 
 `💖` My pronouns are **@he/him** <br />
 `📜` I am a hobby developer. <br>
 `🔗` My shiny site: [InfoBlock](https://infoblock.github.io/Website/). <br>
-`🌏` I live on Earth. <br>
-`🎉` I am 20y/o. <br>
 
-[![Discord Server](https://img.shields.io/discord/611886244925931531?color=%237289da&label=My%20Discord%20Server&logo=discord)](https://discord.gg/zWFW6yg)
+[![](https://discord.c99.nl/widget/theme-3/124220790001500161.png)](https://infoblock.github.io/Website/)
+
+[![Discord Server](https://discordapp.com/api/guilds/611886244925931531/widget.png?style=banner2)](https://discord.gg/zWFW6yg)
+
+<br>
+
+⚡ Github Stats
+<br><br>
+<a href="https://infoblock.github.io/Website/"><img align="left" alt="InfoBlock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoblock&count_private=true&show_icons=true&theme=dark" /></a>
