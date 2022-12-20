@@ -2,9 +2,6 @@
 
 `💖` My pronouns are **@he/him** <br />
 `📜` I am a hobby developer. <br>
-`🔗` My shiny site: [InfoBlock](https://infoblock.github.io/Website/). <br>
-
-[![](https://discord.c99.nl/widget/theme-3/124220790001500161.png)](https://infoblock.github.io/Website/)
 
 [![Discord Server](https://discordapp.com/api/guilds/611886244925931531/widget.png?style=banner2)](https://discord.gg/zWFW6yg)
 
