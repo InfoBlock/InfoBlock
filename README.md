@@ -12,4 +12,4 @@
 
 ⚡ Github Stats
 <br><br>
-<a href="https://infoblock.github.io/Website/"><img align="left" alt="InfoBlock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoblock&count_private=true&show_icons=true&theme=dark" /></a>
+<img align="left" alt="InfoBlock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoblock&count_private=true&show_icons=true&theme=dark" />
