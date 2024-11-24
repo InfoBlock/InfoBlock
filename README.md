@@ -10,4 +10,4 @@
 
 ⚡ Github Stats
 <br><br>
-<img align="left" alt="InfoBlock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoblock&count_private=true&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="InfoBlock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=infoblock&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
