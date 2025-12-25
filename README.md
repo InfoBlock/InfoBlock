@@ -10,4 +10,4 @@
 
 ⚡ Github Stats
 <br><br>
-<img align="left" alt="InfoBlock's GitHub Stats" src="https://githubcard.com/infoblock.svg?d=O5_gbH5I" />
+<img align="left" alt="InfoBlock's GitHub Stats" src="https://githubcard.com/infoblock.svg?d=Lz2QAgo1" />
