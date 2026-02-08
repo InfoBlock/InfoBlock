@@ -1,6 +1,5 @@
 # **Heyhow everyone, I'm InfoBlock!** （っ＾▿＾）
 
-`💖` My pronouns are **@he/him** <br>
 `📜` I am a hobby developer <br>
 `👨🏽‍⚖️` Founder & Chief Executive Officer at Block Development
 
